@@ -1,0 +1,79 @@
+.img{
+    background-image:url("https://img.freepik.com/free-vector/abstract-low-poly-design_1048-6729.jpg?w=740&t=st=1708357052~exp=1708357652~hmac=c812dc2206aefcc20a5b74cbaa91776699523c1d6db0f4926dd72bf7d0093fbc");
+    background-size: cover;
+}
+.main{
+    padding: 30px;
+    font-family: Arial;
+    box-shadow: 5px  5px 5px 5px #5b4e5b;
+    margin:30px;
+    border-radius: 45px;
+   box-sizing: content-box;
+   background-color:rgb(205, 218, 236);
+}
+
+.main h1{
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial;
+
+}
+.names{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.form-select{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: lighter;
+    width: 70%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid #5b4e5b;
+    border-style:groove;
+    border-radius: 10px;
+    background-color:#eef5f8e4;
+    
+}
+.form-select1{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: lighter;
+    width:260%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 4px;
+    border: none;
+    border-bottom: 2px solid #5b4e5b;
+    border-style:groove;
+    border-radius: 10px;
+    background-color:#eef5f8e4;
+}
+input{
+    font-family:'Times New Roman', Times, serif;
+    font-weight:lighter;
+    background-color:#eef5f8e4;
+    width: 100%;
+    height:50px;
+    font-size: 18px;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid #5b4e5b;
+    border-style:groove;
+    border-radius: 10px;
+
+}
+input[type=submit]{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    height:50px;
+    width: 40%;
+    background-color: #093f6a;
+    border:none;
+    color:white;
+    margin: 4px 2px;
+    border-radius: 10px;
+    justify-content: center;
+
+}
